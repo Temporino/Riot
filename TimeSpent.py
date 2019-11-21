@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-api_key = "RGAPI-ca8525b8-bdf3-4155-9153-f38e633947b5"
+api_key = "RGAPI-35d6ee2c-3154-4c62-8071-c4139b4c058b"
 beginIndex=0
 gamesIds = []
 totalTime = 0
